@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Hasaan Bin Tayyab - Portfolio</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Minecraft Professional', sans-serif;
+            color: #f4f4f4;
+            background-color: #001f3f;
+            overflow-x: hidden;
+        }
+
+        header {
+            background: url('https://via.placeholder.com/1920x1080?text=Aviation+Skyline') no-repeat center/cover;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 3rem;
+            margin: 0;
+        }
+
+        header p {
+            font-size: 1.5rem;
+        }
+
+        nav {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+
+        nav a {
+            margin: 0 10px;
+            color: #f4f4f4;
+            text-decoration: none;
+            font-size: 1rem;
+        }
+
+        section {
+            padding: 50px;
+            text-align: center;
+        }
+
+        section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .project {
+            background: #012a4a;
+            border-radius: 10px;
+            padding: 20px;
+            transition: transform 0.3s;
+        }
+
+        .project:hover {
+            transform: scale(1.05);
+        }
+
+        .project h3 {
+            margin: 10px 0;
+        }
+
+        footer {
+            background: #001f3f;
+            color: #aaa;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .socials a {
+            margin: 0 10px;
+            color: #f4f4f4;
+            text-decoration: none;
+            font-size: 1.5rem;
+        }
+
+        /* Adjusted profile picture settings */
+        .profile-pic {
+            border-radius: 50%;
+            width: 200px; /* Increased width */
+            height: 200px; /* Increased height */
+            object-fit: contain; /* Ensures full image is visible */
+            object-position: center; /* Centers the image properly */
+            background-color: black;
+            padding: 10px; /* Adds spacing around the image */
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Muhammad Hasaan Bin Tayyab</h1>
+        <p>Tech Enthusiast | Aspiring Engineer | Aviation Dreamer</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="profile_black_background.jpg" alt="Muhammad Hasaan Bin Tayyab" class="profile-pic">
+        <p>I’m Muhammad Hasaan Bin Tayyab, a 16-year-old tech enthusiast from Lahore, Pakistan. With a passion for aviation, engineering, and coding, I constantly seek challenges to innovate and create. Explore my projects to see what I’ve been working on!</p>
+    </section>
+
+    <section id="projects">
+        <h2>My Work</h2>
+        <div class="projects">
+            <div class="project">
+                <h3>Budget Moon Lander</h3>
+                <p>A project exploring low-cost moon landing systems.</p>
+                <a href="https://github.com/Legowarriorsfjgk">View on GitHub</a>
+            </div>
+            <div class="project">
+                <h3>Fruit Nutritional Gadget IQ Taste</h3>
+                <p>A smart gadget designed to analyze the nutritional value of fruits and assist in food quality control.</p>
+                <a href="https://github.com/Legowarriorsfjgk">View on GitHub</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Get in Touch</h2>
+        <p>Feel free to reach out for collaborations or queries!</p>
+        <p>Email: <a href="mailto:hasaantayyab1@gmail.com">hasaantayyab1@gmail.com</a> | <a href="mailto:kate010798@icloud.com">kate010798@icloud.com</a></p>
+        <div class="socials">
+            <a href="https://github.com/Legowarriorsfjgk">GitHub</a>
+            <a href="https://www.instagram.com/h_b_tabi/">Instagram</a>
+            <a href="https://discord.com">Discord</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Muhammad Hasaan Bin Tayyab. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
