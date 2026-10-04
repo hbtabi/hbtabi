@@ -31,7 +31,7 @@ jobs:
           template: classic
           config_timezone: Europe/London
           config_display: large
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
           base_indepth: no
 
           plugin_isocalendar: yes
@@ -45,10 +45,4 @@ jobs:
 
           # achievements: disabled, upstream bug (queries the sunset Projects classic API)
 
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 12
-
           plugin_lines: yes
-
-          plugin_notable: yes
