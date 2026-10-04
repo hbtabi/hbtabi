@@ -31,7 +31,10 @@
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="30%" align="center" valign="middle">
+      <img src="assets/mark.svg" width="200" alt="H/X: Hasenix mark" />
+    </td>
+    <td width="70%" valign="top">
       <h3>Hey, I'm Hassan 👋</h3>
       <p>
         I'm the founder of <a href="https://hasenix.com"><b>Hasenix</b></a>, a UK creative studio making
@@ -41,9 +44,7 @@
         I'm a <b>prompt engineer</b> at heart: I build <b>multi-agent workflows</b>, <b>AI video pipelines</b>
         and the automation that ties them together. Based in London, where I'm also studying IT.
       </p>
-    </td>
-    <td width="42%" valign="top">
-      <h3>⚡ Currently</h3>
+      <p><b>⚡ Currently</b></p>
       <ul>
         <li>🎬 Building <a href="https://hasenix.com">Hasenix</a></li>
         <li>🛠️ Shipping open-source AI tools</li>

@@ -41,14 +41,9 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
+          # habits: disabled, upstream bug (GitHub PushEvent payloads no longer include commits)
 
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          # achievements: disabled, upstream bug (queries the sunset Projects classic API)
 
           plugin_topics: yes
           plugin_topics_mode: icons

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="t">
+  <title id="t">H/X — Hasenix mark</title>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#7b5cff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#1a1714" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c8ff3d"/>
+      <stop offset="1" stop-color="#7b5cff"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .spin  { animation: spin 30s linear infinite; transform-origin: 200px 200px; }
+    .spinr { animation: spin 18s linear infinite reverse; transform-origin: 200px 200px; }
+    .mono  { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', 'DejaVu Sans Mono', Menlo, monospace; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+  <circle cx="200" cy="200" r="190" fill="#1a1714"/>
+  <circle cx="200" cy="200" r="190" fill="url(#g)"/>
+  <circle cx="200" cy="200" r="186" fill="none" stroke="url(#ring)" stroke-width="6"/>
+  <g class="spin" fill="none">
+    <circle cx="200" cy="200" r="150" stroke="#c8ff3d" stroke-opacity=".55" stroke-width="2" stroke-dasharray="4 12"/>
+    <circle cx="350" cy="200" r="8" fill="#c8ff3d"/>
+  </g>
+  <g class="spinr" fill="none">
+    <circle cx="200" cy="200" r="105" stroke="#7b5cff" stroke-width="3"/>
+    <circle cx="95" cy="200" r="7" fill="#7b5cff"/>
+  </g>
+  <text x="200" y="222" text-anchor="middle" class="mono" font-size="64" font-weight="700" fill="#c8ff3d">H/X</text>
+</svg>
