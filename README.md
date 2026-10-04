@@ -5,6 +5,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/avatar.png" width="150" alt="Mohammed Hassan bin Tayyeb" />
+</p>
+
 <!-- ═══════════════════════════ NAV ═══════════════════════════ -->
 <p align="center">
   <a href="#about-me"><img src="https://img.shields.io/badge/About-1a1714?style=for-the-badge&logo=handshake&logoColor=c8ff3d" alt="About" /></a>
