@@ -234,15 +234,8 @@
 
 ## Activity
 
-<img src="metrics.svg" alt="GitHub metrics dashboard: activity, languages, contributions calendar and more" />
+<img src="metrics.svg" alt="GitHub metrics dashboard: languages and repositories" />
 
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hbtabi/hbtabi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hbtabi/hbtabi/output/github-snake.svg" />
-  <img width="90%" alt="Contribution snake" src="https://raw.githubusercontent.com/hbtabi/hbtabi/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
