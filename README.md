@@ -1,21 +1,20 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <p align="center">
-  <a href="https://hasenix.com">
-    <img src="assets/hero.svg" width="100%" alt="Mohammed Hassan bin Tayyeb: Founder, Hasenix · AI builder · London" />
+  <a href="https://github.com/hbtabi">
+    <img src="assets/hero.svg" width="100%" alt="Mohammed Hassan bin Tayyeb: AI developer · Vibe coder · London" />
   </a>
 </p>
 
 <!-- ═══════════════════════════ NAV ═══════════════════════════ -->
 <p align="center">
-  <a href="https://hasenix.com"><img src="https://img.shields.io/badge/Website-1a1714?style=for-the-badge&logo=googlechrome&logoColor=c8ff3d" alt="Website" /></a>
   <a href="#about-me"><img src="https://img.shields.io/badge/About-1a1714?style=for-the-badge&logo=handshake&logoColor=c8ff3d" alt="About" /></a>
-  <a href="#what-i-do"><img src="https://img.shields.io/badge/Work-1a1714?style=for-the-badge&logo=sparkfun&logoColor=c8ff3d" alt="Work" /></a>
+  <a href="#what-i-do"><img src="https://img.shields.io/badge/What%20I%20do-1a1714?style=for-the-badge&logo=sparkfun&logoColor=c8ff3d" alt="What I do" /></a>
   <a href="#selected-work"><img src="https://img.shields.io/badge/Projects-1a1714?style=for-the-badge&logo=github&logoColor=c8ff3d" alt="Projects" /></a>
   <a href="#contact"><img src="https://img.shields.io/badge/Contact-7b5cff?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2600&pause=900&color=7B5CFF&center=true&vCenter=true&width=640&lines=AI+video+%26+UGC+for+artists+and+brands;Multi-agent+workflows+that+do+real+work;Prompts+treated+like+code;Websites+for+London+businesses" alt="AI video & UGC for artists and brands · Multi-agent workflows · Prompts treated like code · Websites for London businesses" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2600&pause=900&color=7B5CFF&center=true&vCenter=true&width=640&lines=AI+developer;Vibe+coder%3A+idea+%E2%86%92+shipped;Multi-agent+systems+%26+LLM+apps;Prompt+engineering;Building+in+public" alt="AI developer · Vibe coder: idea → shipped · Multi-agent systems & LLM apps · Prompt engineering · Building in public" />
 </p>
 
 <br />
@@ -32,23 +31,23 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="assets/mark.svg" width="200" alt="H/X: Hasenix mark" />
+      <img src="assets/mark.svg" width="200" alt="Code mark" />
     </td>
     <td width="70%" valign="top">
       <h3>Hey, I'm Hassan 👋</h3>
       <p>
-        I'm the founder of <a href="https://hasenix.com"><b>Hasenix</b></a>, a UK creative studio making
-        <b>AI video, UGC and marketing</b> for artists and brands, and <b>websites for London businesses</b>.
+        I'm an <b>AI developer</b> and <b>vibe coder</b>. I take an idea and ship it as a working AI product,
+        fast, with LLMs, agents and AI coding tools doing a lot of the heavy lifting.
       </p>
       <p>
-        I'm a <b>prompt engineer</b> at heart: I build <b>multi-agent workflows</b>, <b>AI video pipelines</b>
-        and the automation that ties them together. Based in London, where I'm also studying IT.
+        My focus is <b>prompt engineering</b>, <b>multi-agent systems</b> and <b>full-stack LLM apps</b>.
+        Right now I'm working on a batch of new projects. I'm based in London, where I'm also studying IT.
       </p>
       <p><b>⚡ Currently</b></p>
       <ul>
-        <li>🎬 Building <a href="https://hasenix.com">Hasenix</a></li>
-        <li>🛠️ Shipping open-source AI tools</li>
-        <li>🤖 Exploring multi-agent systems</li>
+        <li>🚀 Shipping new AI apps and open-source tools</li>
+        <li>🤖 Exploring multi-agent systems and agent memory</li>
+        <li>🧪 Treating prompts like code: versioned and evaluated</li>
       </ul>
     </td>
   </tr>
@@ -56,7 +55,6 @@
 
 <p align="center">
   <a href="https://instagram.com/hasaanrx"><img src="https://img.shields.io/badge/@hasaanrx-1a1714?style=for-the-badge&logo=instagram&logoColor=c8ff3d" alt="Instagram @hasaanrx" /></a>
-  <a href="https://hasenix.com"><img src="https://img.shields.io/badge/hasenix.com-1a1714?style=for-the-badge&logo=googlechrome&logoColor=c8ff3d" alt="Website hasenix.com" /></a>
   <a href="mailto:hasaantayyb1@gmail.com"><img src="https://img.shields.io/badge/Email-1a1714?style=for-the-badge&logo=gmail&logoColor=c8ff3d" alt="Email hasaantayyb1@gmail.com" /></a>
   <img src="https://komarev.com/ghpvc/?username=hbtabi&color=7b5cff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -66,7 +64,7 @@
 <!-- ═══════════════════════════ NOW BUILDING ═══════════════════════════ -->
 <div align="center">
 
-<sub><code>02</code> &nbsp;NOW BUILDING</sub>
+<sub><code>02</code> &nbsp;IN THE WORKS</sub>
 
 ## Now building
 
@@ -74,23 +72,14 @@
 
 <table>
   <tr>
-    <td width="66%" valign="middle">
-      <h3><a href="https://hasenix.com">Hasenix</a> &nbsp;<sub>· London, UK</sub></h3>
+    <td width="100%" valign="top" align="center">
+      <h3>A few new AI products in the works, shipping soon 🛠️</h3>
+      <p>LLM apps, agents and developer tools, built fast and shipped in public.<br />Until then, the open-source pieces are already here:</p>
       <p>
-        A UK creative studio I founded. We make <b>AI videos, UGC and marketing</b> for
-        <b>artists and brands</b>, and design <b>websites for London businesses</b>.
+        <a href="https://github.com/hbtabi/agent-relay"><img src="https://img.shields.io/badge/agent--relay-1a1714?style=for-the-badge&logo=typescript&logoColor=c8ff3d" alt="agent-relay" /></a>
+        <a href="https://github.com/hbtabi/prompt-forge"><img src="https://img.shields.io/badge/prompt--forge-1a1714?style=for-the-badge&logo=python&logoColor=c8ff3d" alt="prompt-forge" /></a>
+        <a href="https://github.com/hbtabi/lexcore"><img src="https://img.shields.io/badge/lexcore-1a1714?style=for-the-badge&logo=react&logoColor=c8ff3d" alt="lexcore" /></a>
       </p>
-      <p>
-        The idea is simple: use AI for speed and volume, use taste to decide what actually ships.
-        Behind the studio sits a stack of my own tools for scripting, prompting and automating the work.
-      </p>
-      <p>
-        <a href="https://hasenix.com"><img src="https://img.shields.io/badge/Visit%20hasenix.com%20%E2%86%92-c8ff3d?style=for-the-badge&labelColor=1a1714" alt="Visit hasenix.com" /></a>
-        <a href="https://github.com/hbtabi/hasenix-portfolio"><img src="https://img.shields.io/badge/Site%20source-1a1714?style=for-the-badge&logo=github&logoColor=white" alt="Site source" /></a>
-      </p>
-    </td>
-    <td width="34%" align="center" valign="middle">
-      <a href="https://hasenix.com"><img src="assets/hasenix-mobile.png" width="200" alt="Hasenix studio site on mobile" /></a>
     </td>
   </tr>
 </table>
@@ -100,7 +89,7 @@
 <!-- ═══════════════════════════ WHAT I DO ═══════════════════════════ -->
 <div align="center">
 
-<sub><code>03</code> &nbsp;VENTURES &amp; CRAFT</sub>
+<sub><code>03</code> &nbsp;WHAT I DO</sub>
 
 ## What I do
 
@@ -109,19 +98,19 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🎬 AI video &amp; UGC</h3>
-      <p>Music visuals, ads and short-form content for artists and brands. Script, shot list, generation, edit: one pipeline, end to end.</p>
-      <sub><b>Hasenix</b> · scene-director</sub>
+      <h3>🤖 AI apps &amp; agents</h3>
+      <p>LLM-powered apps and multi-agent systems: planners, researchers and writers that hand work to each other and stay traceable.</p>
+      <sub>agent-relay · lexcore</sub>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 AI systems</h3>
-      <p>Prompt engineering, multi-agent workflows and automation. Small, traceable systems that turn models into reliable tools.</p>
-      <sub>prompt-forge · agent-relay</sub>
+      <h3>🧠 Prompt engineering &amp; evals</h3>
+      <p>Prompts as versioned, testable code, scored against rubrics so every change is measured before it ships.</p>
+      <sub>prompt-forge</sub>
     </td>
     <td width="33%" valign="top">
-      <h3>🌐 Web for London</h3>
-      <p>Fast, SEO-ready websites for local businesses, plus full-stack TypeScript apps when a site isn't enough.</p>
-      <sub>local-biz-template · lexcore</sub>
+      <h3>⚡ Full-stack vibe coding</h3>
+      <p>Idea to deployed app, fast. AI pair-programming for the boilerplate, my judgement on what actually ships.</p>
+      <sub>TypeScript · React · Python</sub>
     </td>
   </tr>
 </table>
@@ -140,12 +129,6 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/hbtabi/scene-director"><img src="assets/scene-director.png" width="100%" alt="scene-director CLI output" /></a>
-      <h4><a href="https://github.com/hbtabi/scene-director">scene-director</a></h4>
-      <p>Turns a screenplay into a scene-by-scene AI video shot list with ready-to-paste prompts and consistent characters.</p>
-      <sub><code>Python</code> <code>CLI</code> <code>AI video</code></sub>
-    </td>
-    <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/agent-relay"><img src="assets/agent-relay.png" width="100%" alt="agent-relay run timeline" /></a>
       <h4><a href="https://github.com/hbtabi/agent-relay">agent-relay</a></h4>
       <p>Lightweight multi-agent orchestration: planner, researcher and writer agents relaying typed messages over a traceable bus.</p>
@@ -157,28 +140,37 @@
       <p>Versioned prompt templates and a rubric-based eval harness, so you know <i>v2</i> beats <i>v1</i> before it ships. Offline-first.</p>
       <sub><code>Python</code> <code>LLM evals</code> <code>CI</code></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/hbtabi/hasenix-portfolio"><img src="assets/hasenix-portfolio.png" width="100%" alt="Hasenix portfolio hero" /></a>
-      <h4><a href="https://github.com/hbtabi/hasenix-portfolio">hasenix-portfolio</a></h4>
-      <p>Animated single-page site for the studio: on-brand design system, scroll motion, accessible and SEO-ready, no framework.</p>
-      <sub><code>HTML</code> <code>CSS</code> <code>Vanilla JS</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/hbtabi/local-biz-template"><img src="assets/local-biz-template.png" width="100%" alt="local-biz-template barbershop example" /></a>
-      <h4><a href="https://github.com/hbtabi/local-biz-template">local-biz-template</a></h4>
-      <p>One JSON file in, a fast, SEO-ready site out, built for London barbers, cafés and trades.</p>
-      <sub><code>Tailwind</code> <code>Node.js</code> <code>schema.org</code></sub>
-    </td>
     <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/lexcore"><img src="assets/lexcore.png" width="100%" alt="LexCore title card" /></a>
       <h4><a href="https://github.com/hbtabi/lexcore">lexcore</a></h4>
-      <p>LexCore AI, a cinematic legal intelligence platform: full-stack web app with 3D, motion and a typed API layer.</p>
-      <sub><code>TypeScript</code> <code>React</code> <code>Three.js</code> <code>tRPC</code></sub>
+      <p>AI legal guidance assistant: describe a legal issue, get plain-English rights and next steps. Cinematic, animated UI.</p>
+      <sub><code>TypeScript</code> <code>React</code> <code>Groq · Llama 3.1</code> <code>tRPC</code></sub>
     </td>
   </tr>
+  <!--
+    TODO(Hassan): new AI repos go here once they're public on GitHub.
+    None of these existed when this was written (checked with `gh repo view hbtabi/<name>`):
+      rag-lens, voice-notes-ai, vision-tagger, sentiment-pulse, code-reviewer-bot, tiny-gpt,
+      ai-chat-ui, forecast-ai, ugc-script-gen, ai-lead-scorer, guardrail-kit, agent-memory
+    Add rows of three cards using this template (thumbnail in assets/<name>.png, 960x540):
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/NAME"><img src="assets/NAME.png" width="100%" alt="NAME" /></a>
+      <h4><a href="https://github.com/hbtabi/NAME">NAME</a></h4>
+      <p>One-line description.</p>
+      <sub><code>Lang</code> <code>Tag</code></sub>
+    </td>
+  -->
 </table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br />
+
+- **[scene-director](https://github.com/hbtabi/scene-director)**: screenplay → scene-by-scene AI shot list with ready-to-paste image/video prompts. <sub>`Python`</sub>
+- **[local-biz-template](https://github.com/hbtabi/local-biz-template)**: fast, SEO-ready site template for local businesses, driven by one JSON file. <sub>`JavaScript` `Tailwind`</sub>
+- **[hasenix-portfolio](https://github.com/hbtabi/hasenix-portfolio)**: animated single-page portfolio site, no framework. <sub>`HTML` `CSS` `JS`</sub>
+
+</details>
 
 <br />
 
@@ -193,16 +185,16 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top"><b>01 · Ship the thing.</b><br />A working demo beats a perfect deck. Make it real, then make it better.</td>
-    <td width="50%" valign="top"><b>02 · Prompts are code.</b><br />Versioned, diffed and tested. If I can't measure it, I don't trust it.</td>
+    <td width="50%" valign="top"><b>01 · Ship first, polish fast.</b><br />Get a working version in front of people, then iterate in tight loops.</td>
+    <td width="50%" valign="top"><b>02 · AI is my pair programmer.</b><br />It writes the boilerplate. I own the architecture, the review and the result.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><b>03 · Agents earn their place.</b><br />Small, readable and traceable. Every message is logged, every run can be replayed.</td>
-    <td width="50%" valign="top"><b>04 · Taste is the moat.</b><br />AI gives you volume. Judgement decides what's good enough to put a name on.</td>
+    <td width="50%" valign="top"><b>03 · Prompts are code.</b><br />Versioned, diffed and tested. If I can't measure it, I don't trust it.</td>
+    <td width="50%" valign="top"><b>04 · Small agents, clear contracts.</b><br />Typed messages, readable logs, replayable runs. No black boxes.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><b>05 · Build for real businesses.</b><br />Fast pages, clear offers, easy booking. No bloat for the sake of it.</td>
-    <td width="50%" valign="top"><b>06 · Own the pipeline.</b><br />When a step is tedious, I build a tool for it and keep it.</td>
+    <td width="50%" valign="top"><b>05 · Vibes, then verification.</b><br />Move fast on feel, then lock it in with tests and evals.</td>
+    <td width="50%" valign="top"><b>06 · Build in public.</b><br />Open-source the useful bits and share what I learn along the way.</td>
   </tr>
 </table>
 
@@ -215,15 +207,17 @@
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,vite,tailwind,threejs,html,css,mysql,docker,githubactions,git&theme=dark&perline=14" alt="TypeScript, JavaScript, Python, Node.js, React, Vite, Tailwind, Three.js, HTML, CSS, MySQL, Docker, GitHub Actions, Git" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,vite,tailwind,threejs,html,css,mysql,docker,githubactions,git&theme=dark&perline=14" alt="Python, TypeScript, JavaScript, Node.js, React, Vite, Tailwind, Three.js, HTML, CSS, MySQL, Docker, GitHub Actions, Git" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Prompt%20engineering-c8ff3d?style=flat-square&labelColor=1a1714" alt="Prompt engineering" />
-<img src="https://img.shields.io/badge/Multi--agent%20workflows-7b5cff?style=flat-square&labelColor=1a1714" alt="Multi-agent workflows" />
-<img src="https://img.shields.io/badge/AI%20video%20pipelines-c8ff3d?style=flat-square&labelColor=1a1714" alt="AI video pipelines" />
-<img src="https://img.shields.io/badge/LLM%20evals-7b5cff?style=flat-square&labelColor=1a1714" alt="LLM evals" />
-<img src="https://img.shields.io/badge/Automation-c8ff3d?style=flat-square&labelColor=1a1714" alt="Automation" />
+<img src="https://img.shields.io/badge/Cursor-1a1714?style=for-the-badge&logo=cursor&logoColor=c8ff3d" alt="Cursor" />
+<img src="https://img.shields.io/badge/OpenAI%20API-1a1714?style=for-the-badge&logo=openai&logoColor=c8ff3d" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Groq-1a1714?style=for-the-badge&logoColor=c8ff3d" alt="Groq" />
+<img src="https://img.shields.io/badge/LLM%20agents-7b5cff?style=for-the-badge&labelColor=1a1714" alt="LLM agents" />
+<img src="https://img.shields.io/badge/RAG-7b5cff?style=for-the-badge&labelColor=1a1714" alt="RAG" />
+<img src="https://img.shields.io/badge/Prompt%20engineering-c8ff3d?style=for-the-badge&labelColor=1a1714" alt="Prompt engineering" />
+<img src="https://img.shields.io/badge/LLM%20evals-c8ff3d?style=for-the-badge&labelColor=1a1714" alt="LLM evals" />
 
 </div>
 
@@ -236,7 +230,7 @@
 
 ## Activity
 
-<img src="metrics.svg" alt="GitHub metrics dashboard: activity, languages, habits, achievements and more" />
+<img src="metrics.svg" alt="GitHub metrics dashboard: activity, languages, contributions calendar and more" />
 
 <br /><br />
 
@@ -257,13 +251,13 @@
 
 ## Contact
 
-**Got an artist, a brand or a London business that needs AI video, UGC or a sharp website?**<br />Tell me what you're making. I'll tell you how I'd build it.
+**Building something with AI, or want a fast prototype of an idea?**<br />Drop me a message. I'm always up for talking agents, LLM apps and shipping fast.
 
 <br />
 
-<p align="center"><a href="https://hasenix.com"><img src="https://img.shields.io/badge/hasenix.com-c8ff3d?style=for-the-badge&logo=googlechrome&logoColor=1a1714&labelColor=c8ff3d" height="36" alt="hasenix.com" /></a>&nbsp;&nbsp;<a href="mailto:hasaantayyb1@gmail.com"><img src="https://img.shields.io/badge/hasaantayyb1%40gmail.com-7b5cff?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email hasaantayyb1@gmail.com" /></a></p>
+<p align="center"><a href="mailto:hasaantayyb1@gmail.com"><img src="https://img.shields.io/badge/hasaantayyb1%40gmail.com-c8ff3d?style=for-the-badge&logo=gmail&logoColor=1a1714" height="36" alt="Email hasaantayyb1@gmail.com" /></a>&nbsp;&nbsp;<a href="https://instagram.com/hasaanrx"><img src="https://img.shields.io/badge/@hasaanrx-7b5cff?style=for-the-badge&logo=instagram&logoColor=white" height="36" alt="Instagram @hasaanrx" /></a></p>
 
-<sub>Mohammed Hassan bin Tayyeb · Founder, Hasenix · London, UK</sub>
+<sub>Mohammed Hassan bin Tayyeb · AI developer · London, UK · <a href="https://hasenix.com">hasenix.com</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5cff,50:2b2148,100:1a1714&height=110&section=footer" width="100%" alt="" />
 

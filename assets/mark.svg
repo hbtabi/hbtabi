@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="t">
-  <title id="t">H/X — Hasenix mark</title>
+  <title id="t">Code mark</title>
   <defs>
     <radialGradient id="g" cx="50%" cy="45%" r="55%">
       <stop offset="0" stop-color="#7b5cff" stop-opacity=".55"/>
@@ -27,5 +27,5 @@
     <circle cx="200" cy="200" r="105" stroke="#7b5cff" stroke-width="3"/>
     <circle cx="95" cy="200" r="7" fill="#7b5cff"/>
   </g>
-  <text x="200" y="222" text-anchor="middle" class="mono" font-size="64" font-weight="700" fill="#c8ff3d">H/X</text>
+  <text x="200" y="222" text-anchor="middle" class="mono" font-size="64" font-weight="700" fill="#c8ff3d">&lt;/&gt;</text>
 </svg>
