@@ -8,6 +8,7 @@
 <!-- ═══════════════════════════ NAV ═══════════════════════════ -->
 <p align="center">
   <a href="https://hasenix.com"><img src="https://img.shields.io/badge/Website-1a1714?style=for-the-badge&logo=googlechrome&logoColor=c8ff3d" alt="Website" /></a>
+  <a href="#about-me"><img src="https://img.shields.io/badge/About-1a1714?style=for-the-badge&logo=handshake&logoColor=c8ff3d" alt="About" /></a>
   <a href="#what-i-do"><img src="https://img.shields.io/badge/Work-1a1714?style=for-the-badge&logo=sparkfun&logoColor=c8ff3d" alt="Work" /></a>
   <a href="#selected-work"><img src="https://img.shields.io/badge/Projects-1a1714?style=for-the-badge&logo=github&logoColor=c8ff3d" alt="Projects" /></a>
   <a href="#contact"><img src="https://img.shields.io/badge/Contact-7b5cff?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
@@ -19,10 +20,52 @@
 
 <br />
 
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<div align="center">
+
+<sub><code>01</code> &nbsp;ABOUT</sub>
+
+## About me
+
+</div>
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Hey, I'm Hassan 👋</h3>
+      <p>
+        I'm the founder of <a href="https://hasenix.com"><b>Hasenix</b></a>, a UK creative studio making
+        <b>AI video, UGC and marketing</b> for artists and brands, and <b>websites for London businesses</b>.
+      </p>
+      <p>
+        I'm a <b>prompt engineer</b> at heart: I build <b>multi-agent workflows</b>, <b>AI video pipelines</b>
+        and the automation that ties them together. Based in London, where I'm also studying IT.
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>⚡ Currently</h3>
+      <ul>
+        <li>🎬 Building <a href="https://hasenix.com">Hasenix</a></li>
+        <li>🛠️ Shipping open-source AI tools</li>
+        <li>🤖 Exploring multi-agent systems</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://instagram.com/hasaanrx"><img src="https://img.shields.io/badge/@hasaanrx-1a1714?style=for-the-badge&logo=instagram&logoColor=c8ff3d" alt="Instagram @hasaanrx" /></a>
+  <a href="https://hasenix.com"><img src="https://img.shields.io/badge/hasenix.com-1a1714?style=for-the-badge&logo=googlechrome&logoColor=c8ff3d" alt="Website hasenix.com" /></a>
+  <a href="mailto:hasaantayyb1@gmail.com"><img src="https://img.shields.io/badge/Email-1a1714?style=for-the-badge&logo=gmail&logoColor=c8ff3d" alt="Email hasaantayyb1@gmail.com" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hbtabi&color=7b5cff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<br />
+
 <!-- ═══════════════════════════ NOW BUILDING ═══════════════════════════ -->
 <div align="center">
 
-<sub><code>01</code> &nbsp;NOW BUILDING</sub>
+<sub><code>02</code> &nbsp;NOW BUILDING</sub>
 
 ## Now building
 
@@ -56,7 +99,7 @@
 <!-- ═══════════════════════════ WHAT I DO ═══════════════════════════ -->
 <div align="center">
 
-<sub><code>02</code> &nbsp;VENTURES &amp; CRAFT</sub>
+<sub><code>03</code> &nbsp;VENTURES &amp; CRAFT</sub>
 
 ## What I do
 
@@ -87,7 +130,7 @@
 <!-- ═══════════════════════════ SELECTED WORK ═══════════════════════════ -->
 <div align="center">
 
-<sub><code>03</code> &nbsp;SELECTED WORK</sub>
+<sub><code>04</code> &nbsp;SELECTED WORK</sub>
 
 ## Selected work
 
@@ -141,7 +184,7 @@
 <!-- ═══════════════════════════ HOW I WORK ═══════════════════════════ -->
 <div align="center">
 
-<sub><code>04</code> &nbsp;PRINCIPLES</sub>
+<sub><code>05</code> &nbsp;PRINCIPLES</sub>
 
 ## How I work
 
@@ -167,7 +210,7 @@
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 <div align="center">
 
-<sub><code>05</code> &nbsp;TOOLKIT</sub>
+<sub><code>06</code> &nbsp;TOOLKIT</sub>
 
 ## Stack
 
@@ -188,12 +231,11 @@
 <!-- ═══════════════════════════ ACTIVITY (subtle) ═══════════════════════════ -->
 <div align="center">
 
-<sub><code>06</code> &nbsp;ACTIVITY</sub>
+<sub><code>07</code> &nbsp;ACTIVITY</sub>
 
-<br />
+## Activity
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=hbtabi&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&hide=issues,contribs&card_width=340&disable_animations=true&border_radius=12&bg_color=1a1714&icon_color=7b5cff&text_color=e9e5dc&border_color=2e2a26" alt="GitHub stats" />
-<img height="150" src="https://streak-stats.demolab.com?user=hbtabi&background=1A1714&border=2E2A26&stroke=2E2A26&ring=7B5CFF&fire=C8FF3D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C8FF3D&sideLabels=E9E5DC&dates=8A837A&border_radius=12&disable_animations=true" alt="GitHub streak" />
+<img src="metrics.svg" alt="GitHub metrics dashboard: activity, languages, habits, achievements and more" />
 
 <br /><br />
 
@@ -210,7 +252,7 @@
 <!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
 <div align="center">
 
-<sub><code>07</code> &nbsp;LET'S TALK</sub>
+<sub><code>08</code> &nbsp;LET'S TALK</sub>
 
 ## Contact
 
