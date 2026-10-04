@@ -77,8 +77,8 @@
 <table>
   <tr>
     <td width="100%" valign="top" align="center">
-      <h3>A few new AI products in the works, shipping soon 🛠️</h3>
-      <p>LLM apps, agents and developer tools, built fast and shipped in public.<br />Until then, the open-source pieces are already here:</p>
+      <h3>AI products, shipped in public 🛠️</h3>
+      <p>LLM apps, agents and developer tools, built fast and shipped in public.<br />The latest work is below:</p>
       <p>
         <a href="https://github.com/hbtabi/agent-relay"><img src="https://img.shields.io/badge/agent--relay-1a1714?style=for-the-badge&logo=typescript&logoColor=c8ff3d" alt="agent-relay" /></a>
         <a href="https://github.com/hbtabi/prompt-forge"><img src="https://img.shields.io/badge/prompt--forge-1a1714?style=for-the-badge&logo=python&logoColor=c8ff3d" alt="prompt-forge" /></a>
@@ -151,19 +151,80 @@
       <sub><code>TypeScript</code> <code>React</code> <code>Groq · Llama 3.1</code> <code>tRPC</code></sub>
     </td>
   </tr>
-  <!--
-    TODO(Hassan): new AI repos go here once they're public on GitHub.
-    None of these existed when this was written (checked with `gh repo view hbtabi/<name>`):
-      rag-lens, voice-notes-ai, vision-tagger, sentiment-pulse, code-reviewer-bot, tiny-gpt,
-      ai-chat-ui, forecast-ai, ugc-script-gen, ai-lead-scorer, guardrail-kit, agent-memory
-    Add rows of three cards using this template (thumbnail in assets/<name>.png, 960x540):
+  <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/hbtabi/NAME"><img src="assets/NAME.png" width="100%" alt="NAME" /></a>
-      <h4><a href="https://github.com/hbtabi/NAME">NAME</a></h4>
-      <p>One-line description.</p>
-      <sub><code>Lang</code> <code>Tag</code></sub>
+      <a href="https://github.com/hbtabi/guardrail-kit"><img src="assets/guardrail-kit.png" width="100%" alt="guardrail-kit terminal demo" /></a>
+      <h4><a href="https://github.com/hbtabi/guardrail-kit">guardrail-kit</a></h4>
+      <p>Dependency-free LLM safety toolkit for prompt-injection detection, reversible PII redaction and output policy checks.</p>
+      <sub><code>Python</code> <code>LLM security</code> <code>Guardrails</code></sub>
     </td>
-  -->
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/agent-memory"><img src="assets/agent-memory.png" width="100%" alt="agent-memory terminal demo" /></a>
+      <h4><a href="https://github.com/hbtabi/agent-memory">agent-memory</a></h4>
+      <p>Long-term memory for AI agents with episodic and semantic stores, TF-IDF recall and decay/importance scoring.</p>
+      <sub><code>TypeScript</code> <code>Agents</code> <code>TF-IDF</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/rag-lens"><img src="assets/rag-lens.png" width="100%" alt="rag-lens terminal demo" /></a>
+      <h4><a href="https://github.com/hbtabi/rag-lens">rag-lens</a></h4>
+      <p>Offline-first RAG toolkit with BM25, hybrid retrieval, cited answers and evaluation gates.</p>
+      <sub><code>Python</code> <code>RAG</code> <code>BM25</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/tiny-gpt"><img src="assets/tiny-gpt.png" width="100%" alt="tiny-gpt terminal demo" /></a>
+      <h4><a href="https://github.com/hbtabi/tiny-gpt">tiny-gpt</a></h4>
+      <p>A character-level GPT in pure NumPy with handwritten backprop, gradient checks, training and sampling.</p>
+      <sub><code>Python</code> <code>NumPy</code> <code>Transformers</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://hbtabi.github.io/ai-chat-ui/"><img src="assets/ai-chat-ui.png" width="100%" alt="ai-chat-ui live demo" /></a>
+      <h4><a href="https://github.com/hbtabi/ai-chat-ui">ai-chat-ui</a> <a href="https://hbtabi.github.io/ai-chat-ui/">↗ live demo</a></h4>
+      <p>Polished streaming LLM chat UI with a mock backend, Markdown rendering and local history.</p>
+      <sub><code>React</code> <code>Vite</code> <code>TypeScript</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/code-reviewer-bot"><img src="assets/code-reviewer-bot.png" width="100%" alt="code-reviewer-bot review demo" /></a>
+      <h4><a href="https://github.com/hbtabi/code-reviewer-bot">code-reviewer-bot</a></h4>
+      <p>Offline-first diff reviewer with 15 rule checks, optional LLM notes and a GitHub Action.</p>
+      <sub><code>TypeScript</code> <code>GitHub Actions</code> <code>Static analysis</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/forecast-ai"><img src="assets/forecast-ai.png" width="100%" alt="forecast-ai terminal demo" /></a>
+      <h4><a href="https://github.com/hbtabi/forecast-ai">forecast-ai</a></h4>
+      <p>Sales and footfall forecasting with seasonal-naive, Holt-Winters and gradient-boosting backtests.</p>
+      <sub><code>Python</code> <code>scikit-learn</code> <code>Forecasting</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/sentiment-pulse"><img src="assets/sentiment-pulse.png" width="100%" alt="sentiment-pulse terminal demo" /></a>
+      <h4><a href="https://github.com/hbtabi/sentiment-pulse">sentiment-pulse</a></h4>
+      <p>Offline sentiment analysis with lexicon and trainable models, incident alerts and a static dashboard.</p>
+      <sub><code>Python</code> <code>NLP</code> <code>Analytics</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/vision-tagger"><img src="assets/vision-tagger.png" width="100%" alt="vision-tagger terminal demo" /></a>
+      <h4><a href="https://github.com/hbtabi/vision-tagger">vision-tagger</a></h4>
+      <p>Classical computer vision for scene tags, alt text, colours and self-contained HTML reports.</p>
+      <sub><code>Python</code> <code>Computer vision</code> <code>NumPy</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/voice-notes-ai"><img src="assets/voice-notes-ai.png" width="100%" alt="voice-notes-ai terminal demo" /></a>
+      <h4><a href="https://github.com/hbtabi/voice-notes-ai">voice-notes-ai</a></h4>
+      <p>Turn meeting transcripts into owners, due dates, decisions and concise Markdown notes.</p>
+      <sub><code>Python</code> <code>Speech-to-text</code> <code>Productivity</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/ai-lead-scorer"><img src="assets/ai-lead-scorer.png" width="100%" alt="ai-lead-scorer terminal demo" /></a>
+      <h4><a href="https://github.com/hbtabi/ai-lead-scorer">ai-lead-scorer</a></h4>
+      <p>Explainable local-business lead scoring with weighted and logistic-regression models plus ranked reports.</p>
+      <sub><code>Python</code> <code>Sales</code> <code>Explainable AI</code></sub>
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -173,6 +234,7 @@
 - **[scene-director](https://github.com/hbtabi/scene-director)**: screenplay → scene-by-scene AI shot list with ready-to-paste image/video prompts. <sub>`Python`</sub>
 - **[local-biz-template](https://github.com/hbtabi/local-biz-template)**: fast, SEO-ready site template for local businesses, driven by one JSON file. <sub>`JavaScript` `Tailwind`</sub>
 - **[hasenix-portfolio](https://github.com/hbtabi/hasenix-portfolio)**: animated single-page portfolio site, no framework. <sub>`HTML` `CSS` `JS`</sub>
+- **[ugc-script-gen](https://github.com/hbtabi/ugc-script-gen)**: product brief → ranked, shot-ready UGC ad scripts and hooks with explainable scoring. <sub>`Python` `LLM`</sub>
 
 </details>
 
