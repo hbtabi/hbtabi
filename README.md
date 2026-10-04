@@ -133,6 +133,12 @@
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/kerfreel"><img src="assets/kerfreel.png" width="100%" alt="kerfreel clip studio with 9:16 preview, captions and ranked highlights" /></a>
+      <h4><a href="https://github.com/hbtabi/kerfreel">kerfreel</a></h4>
+      <p>Local-first clip studio: cuts pauses, ranks highlights, burns animated word-by-word captions and batch-exports Shorts, TikTok, Reels and 16:9. <a href="https://hbtabi.github.io/kerfreel/">Live demo</a>.</p>
+      <sub><code>TypeScript</code> <code>React</code> <code>ffmpeg</code> <code>Whisper</code></sub>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/agent-relay"><img src="assets/agent-relay.png" width="100%" alt="agent-relay run timeline" /></a>
       <h4><a href="https://github.com/hbtabi/agent-relay">agent-relay</a></h4>
       <p>Lightweight multi-agent orchestration: planner, researcher and writer agents relaying typed messages over a traceable bus.</p>
@@ -144,14 +150,14 @@
       <p>Versioned prompt templates and a rubric-based eval harness, so you know <i>v2</i> beats <i>v1</i> before it ships. Offline-first.</p>
       <sub><code>Python</code> <code>LLM evals</code> <code>CI</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/lexcore"><img src="assets/lexcore.png" width="100%" alt="LexCore title card" /></a>
       <h4><a href="https://github.com/hbtabi/lexcore">lexcore</a></h4>
       <p>AI legal guidance assistant: describe a legal issue, get plain-English rights and next steps. Cinematic, animated UI.</p>
       <sub><code>TypeScript</code> <code>React</code> <code>Groq · Llama 3.1</code> <code>tRPC</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/guardrail-kit"><img src="assets/guardrail-kit.png" width="100%" alt="guardrail-kit terminal demo" /></a>
       <h4><a href="https://github.com/hbtabi/guardrail-kit">guardrail-kit</a></h4>
@@ -164,14 +170,14 @@
       <p>Long-term memory for AI agents with episodic and semantic stores, TF-IDF recall and decay/importance scoring.</p>
       <sub><code>TypeScript</code> <code>Agents</code> <code>TF-IDF</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/rag-lens"><img src="assets/rag-lens.png" width="100%" alt="rag-lens terminal demo" /></a>
       <h4><a href="https://github.com/hbtabi/rag-lens">rag-lens</a></h4>
       <p>Offline-first RAG toolkit with BM25, hybrid retrieval, cited answers and evaluation gates.</p>
       <sub><code>Python</code> <code>RAG</code> <code>BM25</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/tiny-gpt"><img src="assets/tiny-gpt.png" width="100%" alt="tiny-gpt terminal demo" /></a>
       <h4><a href="https://github.com/hbtabi/tiny-gpt">tiny-gpt</a></h4>
@@ -184,14 +190,14 @@
       <p>Polished streaming LLM chat UI with a mock backend, Markdown rendering and local history.</p>
       <sub><code>React</code> <code>Vite</code> <code>TypeScript</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/code-reviewer-bot"><img src="assets/code-reviewer-bot.png" width="100%" alt="code-reviewer-bot review demo" /></a>
       <h4><a href="https://github.com/hbtabi/code-reviewer-bot">code-reviewer-bot</a></h4>
       <p>Offline-first diff reviewer with 15 rule checks, optional LLM notes and a GitHub Action.</p>
       <sub><code>TypeScript</code> <code>GitHub Actions</code> <code>Static analysis</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/forecast-ai"><img src="assets/forecast-ai.png" width="100%" alt="forecast-ai terminal demo" /></a>
       <h4><a href="https://github.com/hbtabi/forecast-ai">forecast-ai</a></h4>
@@ -204,14 +210,14 @@
       <p>Offline sentiment analysis with lexicon and trainable models, incident alerts and a static dashboard.</p>
       <sub><code>Python</code> <code>NLP</code> <code>Analytics</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/vision-tagger"><img src="assets/vision-tagger.png" width="100%" alt="vision-tagger terminal demo" /></a>
       <h4><a href="https://github.com/hbtabi/vision-tagger">vision-tagger</a></h4>
       <p>Classical computer vision for scene tags, alt text, colours and self-contained HTML reports.</p>
       <sub><code>Python</code> <code>Computer vision</code> <code>NumPy</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/hbtabi/voice-notes-ai"><img src="assets/voice-notes-ai.png" width="100%" alt="voice-notes-ai terminal demo" /></a>
       <h4><a href="https://github.com/hbtabi/voice-notes-ai">voice-notes-ai</a></h4>
