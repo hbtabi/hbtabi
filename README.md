@@ -231,6 +231,46 @@
       <sub><code>Python</code> <code>Sales</code> <code>Explainable AI</code></sub>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/phish-detect"><img src="assets/phish-detect.png" width="100%" alt="phish-detect phishing detector demo" /></a>
+      <h4><a href="https://github.com/hbtabi/phish-detect">phish-detect</a></h4>
+      <p>Explainable phishing email &amp; URL detector with feature reasons and a CLI.</p>
+      <sub><code>Python</code> <code>Cybersecurity</code> <code>ML</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/log-sentinel"><img src="assets/log-sentinel.png" width="100%" alt="log-sentinel security report" /></a>
+      <h4><a href="https://github.com/hbtabi/log-sentinel">log-sentinel</a></h4>
+      <p>Security log anomaly detection for SSH/auth and web logs with rules, Isolation Forest and MITRE-mapped reports.</p>
+      <sub><code>Python</code> <code>Blue-team</code> <code>Anomaly detection</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/vuln-scan-ai"><img src="assets/vuln-scan-ai.png" width="100%" alt="vuln-scan-ai auditor demo" /></a>
+      <h4><a href="https://github.com/hbtabi/vuln-scan-ai">vuln-scan-ai</a></h4>
+      <p>Defensive project auditor for secrets, vulnerable deps and Dockerfile/CI misconfigs; text, JSON or SARIF.</p>
+      <sub><code>Python</code> <code>DevSecOps</code> <code>SARIF</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/flow-pilot"><img src="assets/flow-pilot.png" width="100%" alt="flow-pilot workflow runner demo" /></a>
+      <h4><a href="https://github.com/hbtabi/flow-pilot">flow-pilot</a></h4>
+      <p>YAML AI automation workflows with LLM, HTTP, webhook and email-draft steps, mock runner and CLI.</p>
+      <sub><code>Python</code> <code>Agents</code> <code>YAML</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/tiny-diffusion"><img src="assets/tiny-diffusion.png" width="100%" alt="tiny-diffusion sample grid" /></a>
+      <h4><a href="https://github.com/hbtabi/tiny-diffusion">tiny-diffusion</a></h4>
+      <p>Denoising diffusion (DDPM/DDIM) from scratch in PyTorch on 2D toy datasets, with denoising GIFs.</p>
+      <sub><code>PyTorch</code> <code>Diffusion</code> <code>From-scratch</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/hbtabi/glyph-vae"><img src="assets/glyph-vae.png" width="100%" alt="glyph-vae latent space" /></a>
+      <h4><a href="https://github.com/hbtabi/glyph-vae">glyph-vae</a></h4>
+      <p>Convolutional VAE from scratch in PyTorch on synthetic digits, with latent-space visualisations.</p>
+      <sub><code>PyTorch</code> <code>VAE</code> <code>Generative</code></sub>
+    </td>
+  </tr>
 </table>
 
 <details>
